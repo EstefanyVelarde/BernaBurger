@@ -1,0 +1,18 @@
+.modal-message-footer {
+    display:none;
+	animation-name: messageopen;
+	animation-duration: 3s;
+
+	font-size: 16px;
+}
+
+.icon-hint {
+    display:none;
+	animation-name: messageopen;
+	animation-duration: 3s;
+}
+
+@keyframes messageopen{
+	from{opacity: 0}
+	to {opacity: 1}
+}

@@ -1,0 +1,17 @@
+.limiter {
+    position: relative;
+    top: 80px;
+    bottom: 80px;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #dc351a!important;
+}
+
+.nav-link-color {
+    color: #1d1d1d;
+}
+
+.products {
+    width: 100%;
+}
